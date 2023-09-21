@@ -1,0 +1,117 @@
+.speech{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 16px;
+    color: black;
+}
+.direction{
+    font-family: 'Times New Roman',serif;
+    font-size: 1px;
+    color: black;
+    background-color:rgb(24, 231, 31);
+}
+
+.direction:hover{
+    background-color: rgba(38, 187, 241, 0.92);
+    color:rgb(219, 241, 94)
+}
+.SOLNESS{
+    font-family: Georgia, 'Times New Roman', Arial, Helvetica, sans-serif;
+    font-size:18px;
+    color:rgb(203, 28, 191);
+}
+.KAIA{
+    font-family: Georgia, 'Times New Roman',Arial, Helvetica, sans-serif;
+    font-size:18px;
+    color:rgb(30, 116, 20);
+}
+.RAGNAR{
+    font-family: Georgia, 'Times New Roman', Arial, Helvetica, sans-serif;
+    font-size:18px;
+   color:rgb(173, 20, 220);
+}
+.BROVIK{
+    font-family: Georgia, 'Times New Roman', Arial, Helvetica, sans-serif;
+    font-size:18px;
+    color:rgb(210, 99, 19);
+}
+.Mrs.SOLNESS{
+    font-family: Georgia, 'Times New Roman',Arial, Helvetica, sans-serif;
+    font-size:18px;
+    color:darkgoldenrod;
+}
+.Dr.HEDRAL{
+    font-family: Georgia, 'Times New Roman',Arial, Helvetica, sans-serif;
+    font-size:18px;
+    color:coral;
+}
+.HILDA{
+    font-family: Georgia, 'Times New Roman', Arial, Helvetica, sans-serif;
+    font-size:18px;
+    color:yellowgreen;
+}
+table,th,td{
+    border: 1px solid;
+    color: rgb(67, 180, 215);
+    text-align: left;
+    padding:0px;
+    margin: 0px;
+    padding-top: 3px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+tr:nth-child(even){
+    background-color: rgb(175, 232, 149);
+}
+.SOLNESS:hover {
+    text-shadow: 2px 2px 4px rgba(103, 16, 161, 0.8); 
+    border: 2px solid rgb(1, 1, 23);
+}
+.KAIA:hover {
+    text-shadow: 2px 2px 4px rgba(153, 24, 116, 0.8); 
+    border: 2px solid black;
+}
+.RAGNAR:hover {
+    text-shadow: 2px 2px 4px rgba(207, 13, 178, 0.8); 
+    border: 2px solid black;
+}
+.BROVIK:hover {
+    text-shadow: 2px 2px 4px rgba(128, 26, 134, 0.8); 
+    border: 2px solid black;
+}
+.Mrs.SOLNESS:hover {
+    text-shadow: 2px 2px 4px rgba(214, 15, 191, 0.8); 
+    border: 2px solid black;
+}
+.Dr.HEDRAL:hover {
+    text-shadow: 2px 2px 4px rgba(148, 37, 141, 0.8); 
+    border: 2px solid black;
+}
+.HILDA:hover {
+    text-shadow: 2px 2px 4px rgba(224, 22, 147, 0.8); 
+    border: 2px solid black;
+}
+
+ul.navbar-horizontal {
+    list-style-type: style type auto;
+    margin: 10px;
+    padding: 2px;
+    }
+    ul.navbar-horizontal li {
+    float:centre; 
+    color:rgb(1, 14, 6);
+    background-color:rgb(248, 243, 235);
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:8px
+    }
+    ul.navbar-horizontal a:hover {
+    background-color: rgb(255, 179, 47);
+    color:violet;
+    }
