@@ -1,30 +1,26 @@
 .speech{
     font-family:Arial, Helvetica, sans-serif ;
     font-size: 16px;
-    color: rgb(42, 238, 25);
+    color: black;
 }
 .direction{
     font-family: 'Times New Roman',serif;
     font-size: 1px;
-    color: rgb(191, 33, 33);
-    background-color:rgb(24, 152, 231);
+    color: black;
+    background-color:rgb(24, 231, 31);
 }
-.name{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 22px;
-    color: rgb(255, 0, 204);
 
 .direction:hover{
-    background-color: rgba(64, 175, 80, 0.92);
+    background-color: rgba(38, 187, 241, 0.92);
     color:rgb(219, 241, 94)
 }
 .SOLNESS{
-    font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Arial, Helvetica, sans-serif;
     font-size:18px;
     color:rgb(203, 28, 191);
 }
 .KAIA{
-    font-family: 'Times New Roman',Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman',Arial, Helvetica, sans-serif;
     font-size:18px;
     color:rgb(30, 116, 20);
 }
@@ -41,17 +37,17 @@
 .Mrs.SOLNESS{
     font-family: Georgia, 'Times New Roman',Arial, Helvetica, sans-serif;
     font-size:18px;
-    color:rgb(184, 134, 11);
+    color:darkgoldenrod;
 }
 .Dr.HEDRAL{
     font-family: Georgia, 'Times New Roman',Arial, Helvetica, sans-serif;
     font-size:18px;
-    color:rgb(204, 75, 28);
+    color:coral;
 }
 .HILDA{
     font-family: Georgia, 'Times New Roman', Arial, Helvetica, sans-serif;
     font-size:18px;
-    color:rgb(154, 205, 50);
+    color:yellowgreen;
 }
 table,th,td{
     border: 1px solid;
@@ -73,32 +69,32 @@ tr:nth-child(even){
     background-color: rgb(175, 232, 149);
 }
 .SOLNESS:hover {
-    text-shadow: 2px 2px 4px rgba(103, 16, 161, 0.8); 
-    border: 2px solid rgb(49, 49, 171);
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.8); 
+    border: 2px solid blue;
 }
 .KAIA:hover {
-    text-shadow: 2px 2px 4px rgba(153, 24, 116, 0.8); 
-    border: 2px solid rgb(21, 80, 174);
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.8); 
+    border: 2px solid blue;
 }
 .RAGNAR:hover {
-    text-shadow: 2px 2px 4px rgba(207, 13, 178, 0.8); 
-    border: 2px solid rgb(56, 9, 149);
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.8); 
+    border: 2px solid blue;
 }
 .BROVIK:hover {
-    text-shadow: 2px 2px 4px rgba(128, 26, 134, 0.8); 
-    border: 2px solid black;
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.8); 
+    border: 2px solid blue;
 }
 .Mrs.SOLNESS:hover {
-    text-shadow: 2px 2px 4px rgba(214, 15, 191, 0.8); 
-    border: 2px solid rgb(79, 35, 211);
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.8); 
+    border: 2px solid blue;
 }
 .Dr.HEDRAL:hover {
-    text-shadow: 2px 2px 4px rgba(148, 37, 141, 0.8); 
-    border: 2px solid black;
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.8); 
+    border: 2px solid blue;
 }
 .HILDA:hover {
-    text-shadow: 2px 2px 4px rgba(224, 22, 147, 0.8); 
-    border: 2px solid black;
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.8); 
+    border: 2px solid blue;
 }
 
 ul.navbar-horizontal {
@@ -108,7 +104,7 @@ ul.navbar-horizontal {
     }
     ul.navbar-horizontal li {
     float:centre; 
-    color:rgb(24, 163, 77);
+    color:rgb(14, 1, 1);
     background-color:rgb(248, 243, 235);
     }
     ul.navbar-horizontal a {
@@ -116,6 +112,6 @@ ul.navbar-horizontal {
     padding:8px
     }
     ul.navbar-horizontal a:hover {
-    background-color: rgb(255, 179, 47);
-    color:violet;
+    background-color: greenyellow;
+    color:purple;
     }
