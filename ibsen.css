@@ -11,7 +11,7 @@
 }
 
 .direction:hover{
-    background-color: rgba(38, 187, 241, 0.92);
+    background-color: rgba(64, 175, 80, 0.92);
     color:rgb(219, 241, 94)
 }
 .SOLNESS{
@@ -37,17 +37,17 @@
 .Mrs.SOLNESS{
     font-family: Georgia, 'Times New Roman',Arial, Helvetica, sans-serif;
     font-size:18px;
-    color:darkgoldenrod;
+    color:rgb(184, 134, 11);
 }
 .Dr.HEDRAL{
     font-family: Georgia, 'Times New Roman',Arial, Helvetica, sans-serif;
     font-size:18px;
-    color:coral;
+    color:rgb(204, 75, 28);
 }
 .HILDA{
     font-family: Georgia, 'Times New Roman', Arial, Helvetica, sans-serif;
     font-size:18px;
-    color:yellowgreen;
+    color:rgb(154, 205, 50);
 }
 table,th,td{
     border: 1px solid;
